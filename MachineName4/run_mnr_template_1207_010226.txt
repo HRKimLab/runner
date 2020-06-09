@@ -1,0 +1,8 @@
+1
+Error occured at 07-Feb-2015 01:25:38, Tempo3CED
+Out of memory. Type HELP MEMORY for your options.
+glmtrain:155 
+TrainWeights_MLR:327 
+compute_mnr_weights:40 
+run_mnr_template_1207_010226:23 
+runner:128 

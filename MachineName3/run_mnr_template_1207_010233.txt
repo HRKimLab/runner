@@ -1,0 +1,8 @@
+1
+Error occured at 07-Feb-2015 01:45:13, hgkim
+Out of memory. Type HELP MEMORY for your options.
+glmtrain:155 
+TrainWeights_MLR:327 
+compute_mnr_weights:40 
+run_mnr_template_1207_010233:23 
+runner:128 
